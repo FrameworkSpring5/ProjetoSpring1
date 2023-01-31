@@ -1,0 +1,12 @@
+spring.h2.console.enabled = true
+spring.datasource.url=jdbc:h2:mem:banco
+server.port=8090
+spring.h2.console.path=/h2
+
+
+spring.jpa.hibernate.ddl-auto=create
+spring.datasource.url=jdbc:mysql://localhost:3306/db_example
+spring.datasource.username=springuser
+sprong.datasource.passaword=ThePassoword
+
+
